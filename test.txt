@@ -1,0 +1,2 @@
+Fichero sometido a modificaciones desde 3 ramas
+Modificación del fichero desde branch1
