@@ -1,2 +1,4 @@
 Fichero sometido a modificaciones desde 3 ramas
 Modificación del fichero desde branch1
+
+Modificado desde el repositorio local y quiereo probar el merge con el mismo fichero de la rama main del repositorio remoto
